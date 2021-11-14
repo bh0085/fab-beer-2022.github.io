@@ -4,4 +4,5 @@
 
 layout: home
 ---
-Welcome to FAB
+FAB is returning February 2022. For updates and tickets to our grand release party, sign up to get notified on Google forms. 
+<br><a href="https://forms.gle/UK3LSJjsKvj5qp399">https://forms.gle/UK3LSJjsKvj5qp399</a>
