@@ -57,3 +57,4 @@ url: https://fab-beer-2022.github.io  # the base hostname and protocol for your 
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+theme: jekyll-theme-cayman
